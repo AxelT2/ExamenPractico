@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Elporcino
+ * @author Axel Tello Atondo
  */
 public class Examen_Practico_1_Problema_5 {
 
